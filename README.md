@@ -59,5 +59,5 @@ I'm a seasoned **AIX Professional** and **DevOps Engineer**, with a focus on con
 
 * **Website:** [www.perry-brandiezs.com](https://www.perry-brandiezs.com)
 * **LinkedIn:** [Perry-Brandiezs](https://www.linkedin.com/in/perry-brandiezs/)
-* **Email:** [pbrandiezs@gmail.com]
+* **Email:** pbrandiezs@gmail.com
 
